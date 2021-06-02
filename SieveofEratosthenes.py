@@ -40,4 +40,3 @@ for i in m:
     print(i,end=" ")
     
 # Thank you
-# Karan Jadaun
