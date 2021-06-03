@@ -1,6 +1,6 @@
 # The sieve of Eratosthenes is one of the most efficient ways to find all primes smaller than n when n is smaller than 10 million or so.
 
-n = int(input("enter the number"))
+n = int(input("Enter the Number"))
 
 # Creating a empty array where we store all numbers from 2 to n.
 l = [] 
